@@ -21,7 +21,7 @@ Um documento Markdown chamado [`EQUIPE.md`](./EQUIPE.md), que funciona como uma 
 | Papel            | Quantidade | Responsabilidade                                                          |
 | ---------------- | ---------- | ------------------------------------------------------------------------- |
 | Líder/Mantenedor | 1          | Cria e mantém o repositório e é o único a fazer _merge_ dos PRs na `main` |
-| Colaboradores    | 5          | Desenvolvem seus perfis em branches separadas                             |
+| Colaboradores    | 4          | Desenvolvem seus perfis em branches separadas                             |
 
 ## 🌿 Convenção de branches
 
